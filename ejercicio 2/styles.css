@@ -1,0 +1,53 @@
+body{
+    background-color: #000000;
+    color: white;
+}
+.presentacion{
+    display: flex;
+    align-items: center;
+    padding: 5% 15%;
+    justify-content: space-between;
+    gap: 82px;
+}
+
+.imagen_persona{
+    width: 50%;
+  
+}
+.presentacion_contenido_titulo{
+    font-size: 2.25rem;
+}
+.titulo{
+    color:#22D4FD;
+
+}
+.presentacion_contenido_parrafo{
+    color: #f6f6f6;
+    font-size: 1.5rem;
+}
+.presentacion_contenido_listas_hobbies_titulo{
+    font-size: 2.0rem;
+    color: #22D4FD;
+}
+.presentacion_contenido_listas_hobbies_item{
+    color : #f6f6f6;
+    font-size: 1.5rem;
+}
+.presentacion_contenido_listas_canciones_titulo{
+    font-size: 2.0rem;
+    color: #22D4FD;
+}
+.presentacion_contenido_listas_canciones_item{
+    color : #f6f6f6;
+    font-size: 1.5rem;
+}
+.presentacion_contenido_listas_canciones_item:hover{
+    color: #22D4FD;
+
+}
+
+.footer{
+
+    text-align:  center;
+
+}
